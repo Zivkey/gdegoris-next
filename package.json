@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "open-next build",
-    "start": "next start"
+    "start": "next start",
+    "opennextjs-cloudflare": "open-next build"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.58.0",
